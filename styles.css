@@ -1,0 +1,11 @@
+/*
+
+This CSS file will be included with your plugin, and
+available to users during runtime. Feel free to edit/add
+styles here to customize the look and feel of your plugin.
+
+*/
+
+.my-plugin-ribbon-class {
+  color: white;
+}
